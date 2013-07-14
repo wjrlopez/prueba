@@ -11,6 +11,8 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
+        echo "Enviado desde mi Netbeanas ;)";
+        
         echo "Hola mundo";
         
         echo "Que vergona esta mierda jajajajaj";

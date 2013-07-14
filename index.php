@@ -12,6 +12,8 @@ and open the template in the editor.
         <?php
         // put your code here
         echo "Hola mundo";
+        
+        echo "Que vergona esta mierda jajajajaj";
         ?>
     </body>
 </html>
